@@ -4,6 +4,7 @@ import './App.css';
 import { Navbar } from './layouts/NavbarAndFooter/Navbar';
 import { ExploreTopBooks } from './layouts/NavbarAndFooter/ExploreTopBooks';
 import { Carousel } from './layouts/NavbarAndFooter/Carousel';
+import { Heros } from './layouts/NavbarAndFooter/Heros';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Navbar/>
       <ExploreTopBooks/>
       <Carousel/>
+      <Heros/>
     </>
   );
 }
