@@ -21,10 +21,7 @@ export const Heros = () => {
             </div>
           </div>
 
-    <div className="m-2">
-        <div className="col-image-right"></div>
-        <div className="mt-2"></div>
-    </div>
+    
 
         </div>
         <div className="row g-0">
